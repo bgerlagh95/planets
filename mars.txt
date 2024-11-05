@@ -1,2 +1,3 @@
 Dry and cold, my favourite snack 
 The two moons might a problem for Wolfman 
+Again a new change, for vim: start typing to edit
